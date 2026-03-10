@@ -4,7 +4,7 @@ This project analyzes loan portfolio data to identify borrower risk patterns, lo
 
 ### Dashboard Preview
 
-[Loan Risk Dashboard](dashboard.png)
+Dashboard(Dashboard.png)
 ## Tools Used
 
 - SQL
