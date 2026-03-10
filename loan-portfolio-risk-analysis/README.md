@@ -1,17 +1,38 @@
-# Loan Portfolio Risk Analysis
+## Loan Portfolio Risk Dashboard
 
-This project analyzes loan portfolio data to identify borrower risk patterns, delinquency trends, and portfolio exposure.
+This project analyzes loan portfolio data to identify borrower risk patterns, loan exposure trends, and credit risk indicators.
 
+### Dashboard Preview
+
+[Loan Risk Dashboard](dashboard.png)
 ## Tools Used
+
 - SQL
 - Python (Pandas, Scikit-learn)
 - Power BI
 
 ## Key Analysis
-- Loan default rate analysis
-- Credit score risk segmentation
-- Loan performance by grade
-- Portfolio exposure trends
+
+- Loan exposure analysis
+- Credit score segmentation
+- Debt-to-income risk analysis
+- Geographic loan exposure
+- Loan demand trends over time
 
 ## Insights
-Borrowers with lower credit scores tend to show higher default probability. Higher grade loans demonstrate lower delinquency rates and stronger repayment behavior.
+
+- Borrowers with higher debt-to-income ratios show greater risk concentration.
+- Loan exposure is heavily distributed in mid-range credit scores.
+- Certain states have significantly higher lending activity.
+
+## Project Structure
+
+credit-risk-portfolio
+│
+├── README.md
+├── dashboard.png
+│
+└── loan-portfolio-risk-analysis
+    ├── dataset
+    ├── sql_analysis.sql
+    └── credit_risk_analysis.py
