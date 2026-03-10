@@ -2,9 +2,9 @@
 
 This project analyzes loan portfolio data to identify borrower risk patterns, loan exposure trends, and credit risk indicators.
 
-### Dashboard Preview
+## Dashboard Preview
 
-Dashboard(Dashboard.png)
+![Loan Risk Dashboard](dashboard/Dashboard.png)
 ## Tools Used
 
 - SQL
